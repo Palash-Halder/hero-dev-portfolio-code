@@ -63,7 +63,7 @@
 header{
   background-color: #FFF8F3;
   background: url("../images/developer.png"), url("../images/header_bg.png"), #FFF8F3;
-  background-position: top left, bottom right;
+  background-position: 23px 38px, bottom right;
   background-repeat: no-repeat;
   padding-top: 50px;
 }
@@ -135,14 +135,10 @@ nav .menu a {
 
 }
 
-
-
-
 /* =======about section starts ============ */
 #about, #skills, #resume{
   padding-top: 130px;
 }
-
 
 #about .about-container {
   width: 71%;
@@ -153,12 +149,10 @@ nav .menu a {
   padding: 131px 156px;
 }
 
-
 #about .about-container .about-info{
   display: flex;
   justify-content: space-around;
 }
-
 
 .about-info .info-card p {
   font-size: 20px;
@@ -175,8 +169,6 @@ nav .menu a {
 
 /* =======skills section starts =========== */
 
-
-
 #skills .skills-container {
   width: 71%;
   max-width: 1140px;
@@ -187,7 +179,6 @@ nav .menu a {
 #skills .skills-container .skill-box{
   display: flex;
   gap: 24px;
-  
 }
 
 .skill-box .skill-card {
@@ -212,9 +203,7 @@ nav .menu a {
   color: #757575;
   line-height: 28px;
 }
-
 /* =======skills section ends ============= */
-
 
 /* =======resume section starts =========== */
 
@@ -286,7 +275,6 @@ footer .footer-container {
 
 .footer-container .social {
   max-width: 562px;
-
 }
 
 .footer-container .social p{
@@ -311,24 +299,7 @@ footer .footer-container {
   color: #757575;
 }
 
-
-
-
-
-
-
-
-
-
-
 /* =======footer section ends ============= */
-
-
-
-
-/* =======about section ends ============= */
-
-/* =======skills section starts =========== */
 
 
 
